@@ -8,6 +8,7 @@ public class Hello {
         System.out.println("Developing hello feature.");
         System.out.println("Github repo is already published to github.");
         System.out.println("Doing more work");
+        System.out.println("Let's do it.");
 
 
 
